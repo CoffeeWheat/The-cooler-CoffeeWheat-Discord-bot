@@ -1,3 +1,3 @@
-# The cooler CoffeeWheat Discord bot
+# The cooler CoffeeWheat Discord bot (abandoned)
  This is The cooler CoffeeWheat Discord bot
- (Also this project is abandon, for now.)
+ (Also this project is abandoned, for now.)
